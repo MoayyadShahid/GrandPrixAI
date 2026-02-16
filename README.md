@@ -1,6 +1,6 @@
 # GrandPrixAI
 
-A high-fidelity F1 race strategy simulator using Monte Carlo simulation and XGBoost lap-time prediction. Compares pit-stop strategies (1-Stop vs 2-Stop) under stochastic Safety Car events.
+An F1 race strategy simulator using Monte Carlo simulation and XGBoost lap-time prediction. Compares pit-stop strategies (1-Stop vs 2-Stop) under stochastic Safety Car events.
 
 ## Project Overview
 
